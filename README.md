@@ -10,7 +10,9 @@ Purpose: Ecofind is the combintion of various sensors(light sensor, magnatometer
 
 ### Project Proposal
 
-(here)
+click link below to download 
+
+[Proposal.docx](https://github.com/Simarjeet-Brar/CENG319/files/2447562/Proposal.docx)
 
 ### Application Activities 
 
