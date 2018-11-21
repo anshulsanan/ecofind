@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">EcoFind</string>
+    <string name="about">About</string>
+    <string name="map">Map</string>
+    <string name="help">Help!</string>
+    <string name="info">About</string>
+    <string name="settings">Settings</string>
+    <string name="EcoFind">EcoFind</string>
+    <string name="logo">logo</string>
+    <string name="camera">Camera</string>
+    <string name="tools">Tools</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="status">Status</string>
+    <string name="reports">Report</string>
+    <string name="contactus">Contact Us</string>
+    <string name="faq">Frequently Asked Questions</string>
+    <string name="call">Call</string>
+    <string name="logout">Logout</string>
+    <string name="account">Account</string>
+    <string name="How">How do I print my Animals\'s sensor Data?</string>
+    <string name="go">Go to the Status page and download the report from there.</string>
+    <string name="what">What is the monthly subscription fees?</string>
+    <string name="who">Who is responsible for the heath of the animal?</string>
+    <string name="we">We are just responsible for monitoring the health of the data not fot it\'s health.</string>
+    <string name="cost">$12.99/month</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="animal_prompt">Choose Animal</string>
+    <string name="null_val">Null</string>
+    <string name="body_temperature">Body Temperature</string>
+    <string name="device_id">Device ID</string>
+    <string name="name">Name</string>
+    <string name="directions">Directions</string>
+    <string name="current_location">Current Location</string>
+    <string name="last_update_recieved">Last Update Recieved</string>
+    <string name="animal1">Animal1</string>
+    <string name="animal2">Animal2</string>
+    <string name="animal3">Animal3</string>
+    <string name="title_activity_status">Status</string>
+    <string name="nodata">No Data To Display!</string>
+    <string name="animal">Select Animal</string>
+    <string name="Data_Option">Data For</string>
+    <string name="download">Download Options</string>
+    <string name="Hwak">Hwak</string>
+    <string name="lion">Lion</string>
+    <string name="Platypus">Platypus</string>
+    <string name="month">Last Month</string>
+    <string name="day">Last 24hrs</string>
+    <string name="week">Last Week</string>
+    <string name="to">To:</string>
+    <string name="subject">Subject:</string>
+    <string name="message">Message:</string>
+    <string name="send">Send</string>
+    <string name="second_layout">Second Layout</string>
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eco.find">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ecofind_launcher"
+        android:label="EcoFind"
+        android:roundIcon="@mipmap/ecofind_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Login" />
+        <activity android:name=".Contact" />
+        <activity android:name=".Mail" />
+        <activity android:name=".Homepage" />
+        <activity android:name=".MapActivity" />
+        <activity android:name=".ReportActivity" />
+        <activity android:name=".StatusActivity" />
+        <activity android:name=".AnimalActivity1" />
+        <activity android:name=".AnimalActivity2" />
+        <activity android:name=".AnimalActivity3"></activity>
+    </application>
+
+</manifest>
