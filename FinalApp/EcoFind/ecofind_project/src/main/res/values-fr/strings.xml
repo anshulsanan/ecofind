@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">EcoFind</string>
+    <string name="about">Sur</string>
+    <string name="map">Carte</string>
+    <string name="help">Aidez-moi!</string>
+    <string name="info">Sur</string>
+    <string name="settings">Réglages</string>
+    <string name="EcoFind">EcoFind</string>
+    <string name="logo">logo</string>
+    <string name="camera">Caméra</string>
+    <string name="tools">Outils</string>
+    <string name="user">Nom d\'utilisateur</string>
+    <string name="pass">Mot de passe</string>
+    <string name="login">S\'identifier</string>
+    <string name="status">Statut</string>
+    <string name="reports">Rapport</string>
+    <string name="contactus">Contactez nous</string>
+    <string name="faq">Questions fréquemment posées</string>
+    <string name="call">Appel</string>
+    <string name="logout">Connectez - Out</string>
+    <string name="account">Compte</string>
+    <string name="How">Comment puis-je imprimer les données du capteur de mon animal?</string>
+    <string name="go">Accédez à la page Statut et téléchargez le rapport à partir de là.</string>
+    <string name="what">Quels sont les frais d\'abonnement mensuels?</string>
+    <string name="who">Qui est responsable de la santé de l\'animal?</string>
+    <string name="we">Nous ne sommes responsables que de la surveillance de la santé des données et non de leur santé.</string>
+    <string name="cost">12,99 $ / mois</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+
+    <string name="action_settings">Réglages</string>
+    <string name="signup">Pas un utilisateur? cliquez ici!</string>
+
+    <string name="animal_prompt">Choisir un animal</string>
+    <string name="null_val">Nul</string>
+    <string name="body_temperature">Température corporelle</string>
+    <string name="device_id">Reference de l\'appareil</string>
+    <string name="name">prénom</string>
+    <string name="Hwak">faucon</string>
+    <string name="lion">Lion</string>
+    <string name="Platypus">Ornithorynque</string>
+    <string name="to">À:</string>
+    <string name="subject">Assujettir:</string>
+    <string name="message">Message:</string>
+    <string name="send">Envoyer</string>
+    <string name="fpassward">Passward oublié?</string>
+    <string name="alreadyuser">Retour connexion!</string>
+    <string name="signupbutton">S\'inscrire!</string>
+    <string name="suname">Nom d\'utilisateur</string>
+    <string name="sname">Prénom</string>
+    <string name="semail">Email</string>
+    <string name="spass">Passward</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="back">Retour</string>
+    <string name="change_passward">Changer le mot de passe</string>
+    <string name="confirm">Confirmer</string>
+    <string name="get_data">Obtenir des données</string>
+    <string name="noData">Aucune donnée à afficher</string>
+    <string name="id">ID</string>
+    <string name="location">Emplacement</string>
+    <string name="temperature">Température</string>
+    <string name="light">Exposition à la lumière</string>
+    <string name="quit">Quitter</string>
+    <string name="exitmessage">Êtes-vous sûr de vouloir quitter?</string>
+    <string name="exityes">Oui</string>
+    <string name="exitno">Non</string>
+
+    <string name="app_info">© 2018 EcoFind Inc.</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="save">Sauvegarder</string>
+    <string name="day_mode">Journée</string>
+    <string name="night_mode">Nuit</string>
+    <string name="changes_saves">Changements sauvegardés</string>
+    <string name="portrait">Portrait</string>
+    <string name="rememberme">Souviens-toi de moi</string>
+    <string name="email">Email</string>
+    <string name="title_activity_maps">Carte</string>
+
+<string name="homepage_text">
+    L\'utilisateur a utilisé les animaux suivants pour tester les capteurs et afficher leurs lectures: \ n
+    \ n1) faucon \ n
+    \ n2) Lion \ n
+    \ n3) Wolf \ n
+    \ nLes animaux sélectionnés par l\'utilisateur sont répartis dans toute l\'Amérique du Nord et peuvent être localisés à l\'aide de la fonction de carte de l\'application. \ n
+    L\'utilisateur peut également voir les données générées à partir du capteur à l\'aide de la page d\'état, qui affiche également les données précises relatives aux animaux \ n</string>
+
+
+    <string name="bck_color">Background Color</string>
+    <string name="chg_lang">Change Language</string>
+    <string name="hello">Hello</string>
+
+    <string name="pass_change">Password Changed</string>
+    <string name="error">Error</string>
+    <string name="chng_pass">Change Password</string>
+    <string name="animal">Animal</string>
+</resources>
