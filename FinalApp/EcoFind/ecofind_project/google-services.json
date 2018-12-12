@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021640576680",
+    "firebase_url": "https://ecofinder-29360.firebaseio.com",
+    "project_id": "ecofinder-29360",
+    "storage_bucket": "ecofinder-29360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021640576680:android:92ceafba428f816a",
+        "android_client_info": {
+          "package_name": "eco.find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021640576680-d4jar4kjb4j2dfevr63q74i1nm8q828u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eco.find",
+            "certificate_hash": "0742c22e846a8bd6998937312422ce36e9516817"
+          }
+        },
+        {
+          "client_id": "1021640576680-2vf2jt02fhmh9g8jfnrodtclbiqeivpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVC7VJKhC3WHuUUrf5uQd2rpyuCcsiGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021640576680-2vf2jt02fhmh9g8jfnrodtclbiqeivpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
